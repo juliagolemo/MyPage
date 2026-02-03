@@ -27,7 +27,8 @@ button {
     border-radius: 50px;
     cursor: pointer;
     font-size: 16px;
-    font-weight: bold;
+    font-weight: 300;
+    font-style: italic;
     transition: 0.3s;
 }
 
