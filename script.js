@@ -3,6 +3,6 @@ const tekst = document.getElementById("wiadomosc");
 
 przycisk.addEventListener("click", function() {
     tekst.innerHTML = "Brawo! JavaScript działa z osobnego pliku! 🚀";
-    tekst.style.color = "#6c5ce7";
+    tekst.style.color = "#e75cc93c";
     tekst.style.fontWeight = "bold";
 });
