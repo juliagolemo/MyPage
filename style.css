@@ -32,7 +32,7 @@ button {
 }
 
 button:hover {
-    /* Nieco ciemniejszy róż przy najechaniu myszką */
+    /* Nieco ciemniejszy róż przy najechaniu myszką */ 
     background-color: #FFA0B4;
     transform: translateY(-3px);
 }
