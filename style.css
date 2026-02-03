@@ -19,7 +19,7 @@ body {
 
 button {
     /* Bladoróżowy kolor przycisku */
-    background-color: #FFB6C1; 
+    background-color: #ffb6c150; 
     /* Zmieniamy kolor tekstu na ciemniejszy, żeby był czytelny na różu */
     color: #555; 
     border: none;
