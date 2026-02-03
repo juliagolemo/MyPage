@@ -28,6 +28,6 @@ button {
 }
 
 button:hover {
-    background-color: #a29bfe;
+    background-color: #e75cc232;;
     transform: translateY(-3px);
 }
