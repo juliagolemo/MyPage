@@ -1,6 +1,7 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f7f5e5a0;
+    /* Ładny, kremowy kolor tła */
+    background-color: #FDF5E6; 
     display: flex;
     justify-content: center;
     align-items: center;
@@ -12,22 +13,26 @@ body {
     background: white;
     padding: 40px;
     border-radius: 20px;
-    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.05);
     text-align: center;
 }
 
 button {
-    background-color: #e75cc232;
-    color: white;
+    /* Bladoróżowy kolor przycisku */
+    background-color: #FFB6C1; 
+    /* Zmieniamy kolor tekstu na ciemniejszy, żeby był czytelny na różu */
+    color: #555; 
     border: none;
     padding: 15px 30px;
     border-radius: 50px;
     cursor: pointer;
     font-size: 16px;
+    font-weight: bold;
     transition: 0.3s;
 }
 
 button:hover {
-    background-color: #e75cc232;;
+    /* Nieco ciemniejszy róż przy najechaniu myszką */
+    background-color: #FFA0B4;
     transform: translateY(-3px);
 }
